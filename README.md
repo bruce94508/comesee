@@ -5,7 +5,8 @@
 全站電影資訊使用爬蟲抓取外部網站資料。
 
 ## 使用技術及工具:
-![1](https://github.com/bruce94508/comesee/assets/69117942/53606a55-97b1-4fcd-ba3e-7ea70664d542)
+![1](https://github.com/bruce94508/comesee/assets/69117942/538101cc-09ab-482b-bbc7-3c3bcde2a1be)
+
 
 ## 我主要負責:
 * MySQL資料庫規劃與建置
@@ -16,7 +17,8 @@
 * 電影收藏功能開發
 
 ## 網站架構:
-![2](https://github.com/bruce94508/comesee/assets/69117942/f2532008-3432-40fc-b6bb-dee5e14f581c)
+![2](https://github.com/bruce94508/comesee/assets/69117942/d3acf39e-ec56-434e-bb35-e21965fd18c7)
+
 
 ## 我負責的功能介紹:
 ### 收藏功能:
