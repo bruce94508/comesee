@@ -20,15 +20,21 @@
 
 ## 我負責的功能介紹:
 ### 收藏功能:
-![收藏1](https://github.com/bruce94508/comesee/assets/69117942/60b032fa-e668-42e1-844b-82e011a9f0e6)
-![收藏2](https://github.com/bruce94508/comesee/assets/69117942/af8a10f9-04a1-40fb-9d22-15a306b3049b)
-![收藏3](https://github.com/bruce94508/comesee/assets/69117942/890024f0-d458-4e76-8558-2864d9464806)
-![收藏4](https://github.com/bruce94508/comesee/assets/69117942/da7a2e0c-609e-4cab-a6d8-588b8091be06)
-![收藏5](https://github.com/bruce94508/comesee/assets/69117942/a0afe221-552d-4aae-a618-39dfffcddedf)
+![收藏1](https://github.com/bruce94508/comesee/assets/69117942/1a8eb1ec-d709-4a12-8baf-066c26e467e9)
+![收藏2](https://github.com/bruce94508/comesee/assets/69117942/58d31e6b-922e-41dc-a4ce-8c458f90e4df)
+![收藏3](https://github.com/bruce94508/comesee/assets/69117942/cfcfad49-57e6-4ec4-9f4f-b25d0af8d479)
+![收藏4](https://github.com/bruce94508/comesee/assets/69117942/9b4e70bb-b4f8-474d-b518-210859bdbe4d)
+![收藏5](https://github.com/bruce94508/comesee/assets/69117942/1bdd2590-f538-4fca-8d30-64827c7aecb9)
+
+
+
 
 ### 瀑布流評論:
-![瀑布流](https://github.com/bruce94508/comesee/assets/69117942/a51f4acd-5dda-4260-9cfe-5c82428a32a1)
+![瀑布流](https://github.com/bruce94508/comesee/assets/69117942/6b65c50d-d225-4c54-8843-e17ce43279c8)
 
 ### 座位選擇頁面:
-![座位1](https://github.com/bruce94508/comesee/assets/69117942/4fcdd335-c10d-4be4-b967-f085b75f5571)
-![座位2](https://github.com/bruce94508/comesee/assets/69117942/c40c6a83-980b-4c14-be6d-9d65bc848af0)
+上半部:
+![座位1](https://github.com/bruce94508/comesee/assets/69117942/7a65b3b5-ee43-4427-b733-863178594efd)
+下半部:
+![座位2](https://github.com/bruce94508/comesee/assets/69117942/1ccf655e-e6b5-4ea3-8fb3-f8af1dc233fd)
+
